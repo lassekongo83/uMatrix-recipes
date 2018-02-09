@@ -17,5 +17,4 @@ Aftonbladet
         _ schibsted.io *
         _ ssl.p.jwpcdn.com script
         _ svp.vg.no xhr
-        _ svd.se *
-        _ svd.se frame
+        _ www.svd.se *
