@@ -1,2 +1,3 @@
-# uMatrix-recipes
-uMatrix ruleset recipes for various websites
+# uMatrix ruleset recipes
+
+**recipes_sv.txt** = Swedish ruleset. (Work in progress.)
