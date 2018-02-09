@@ -1,0 +1,19 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Rulesets for Swedish websites
+! Maintainer: lassekongo83
+! Homepage: https://github.com/lassekongo83/
+!
+! Lines starting with character "!" are ignored.
+! Character "_" is an alias for "currently selected scope".
+! An empty line MUST be used to separate distinct ruleset recipes.
+
+aftonbladet.se *
+    _ 1st-party *
+    _ aftonbladet-cdn.se *
+    _ aftonbladet.ooul.tv script
+    _ akamaihd.net xhr
+    _ login.schibsted.com *
+    _ schibsted.io *
+    _ ssl.p.jwpcdn.com script
+    _ svp.vg.no xhr
+    _ svd.se *
