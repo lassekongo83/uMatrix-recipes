@@ -7,13 +7,14 @@
 ! Character "_" is an alias for "currently selected scope".
 ! An empty line MUST be used to separate distinct ruleset recipes.
 
-aftonbladet.se *
-    _ 1st-party *
-    _ aftonbladet-cdn.se *
-    _ aftonbladet.ooul.tv script
-    _ akamaihd.net xhr
-    _ login.schibsted.com *
-    _ schibsted.io *
-    _ ssl.p.jwpcdn.com script
-    _ svp.vg.no xhr
-    _ svd.se *
+Aftonbladet
+    aftonbladet.se *
+        _ 1st-party *
+        _ aftonbladet-cdn.se *
+        _ aftonbladet.ooul.tv script
+        _ akamaihd.net xhr
+        _ login.schibsted.com *
+        _ schibsted.io *
+        _ ssl.p.jwpcdn.com script
+        _ svp.vg.no xhr
+        _ svd.se *
