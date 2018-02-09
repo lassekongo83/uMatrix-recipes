@@ -18,3 +18,9 @@ Aftonbladet
         _ ssl.p.jwpcdn.com script
         _ svp.vg.no xhr
         _ www.svd.se *
+
+Svtplay
+    svtplay.se *
+        _ svtplay.se akamaihd.net * allow
+        _ svtplay.se svt.se * allow
+        _ svtplay.se svtstatic.se * allow
