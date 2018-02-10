@@ -22,12 +22,12 @@ Aftonbladet
 Svtplay
     svtplay.se *
         _ 1st-party *
-        _ svtplay.se akamaihd.net *
-        _ svtplay.se svt.se *
-        _ svtplay.se svtstatic.se *
+        _ akamaihd.net *
+        _ svt.se *
+        _ svtstatic.se *
 
 Svt
     svt.se *
         _ 1st-party *
-        _ svt.se akamaihd.net *
-        _ svt.se svtstatic.se *
+        _ akamaihd.net *
+        _ svtstatic.se *
