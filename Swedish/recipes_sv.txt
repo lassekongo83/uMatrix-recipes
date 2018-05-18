@@ -11,7 +11,6 @@ Aftonbladet
     aftonbladet.se *
         _ 1st-party *
         _ aftonbladet-cdn.se *
-        _ aftonbladet.ooul.tv script
         _ akamaihd.net xhr
         _ login.schibsted.com *
         _ schibsted.io *
